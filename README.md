@@ -16,20 +16,6 @@ Bienvenido a nuestro emocionante proyecto de desarrollo en el que estamos trabaj
 - Soluciones robustas y eficientes.
 - Contribuciones y colaboración bienvenidas.
 
-## Instalación
-
-1. Clona este repositorio a tu máquina local.
-2. Sigue las instrucciones de instalación en cada subproyecto.
-
-## Contribuciones
-
-¡Estamos emocionados por las contribuciones de la comunidad! Si deseas contribuir, sigue estos pasos:
-
-1. Fork este repositorio.
-2. Crea una nueva rama: `git checkout -b mi-nueva-funcionalidad`
-3. Realiza tus cambios y commitea: `git commit -am 'Añadir nueva funcionalidad'`
-4. Empuja tus cambios: `git push origin mi-nueva-funcionalidad`
-5. Envía un pull request.
 
 ## Contacto
 
