@@ -8,6 +8,8 @@
 
 Bienvenido a nuestro emocionante proyecto de desarrollo en el que estamos trabajando para hacer que la creación y optimización de sistemas remotos con conectividad y funcionalidad sea más accesible y fácil de entender. Nuestro objetivo es proporcionar soluciones robustas y eficientes que permitan a cualquier persona sumergirse en el emocionante mundo del Internet de las Cosas (IoT).
 
+## Tecnología utilizada
+-En este proyecto se utiliza html y css con la participacion de framework de boostrap
 ## Características Principales
 
 - Creación de sistemas remotos.
