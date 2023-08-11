@@ -17,7 +17,11 @@ Bienvenido a nuestro emocionante proyecto de desarrollo en el que estamos trabaj
 - Accesible para todo el público.
 - Soluciones robustas y eficientes.
 - Contribuciones y colaboración bienvenidas.
-
+## Quick start
+- Para poder trabajar con el proyecto.
+- 1er paso es clonar el repo.
+- 2do paso contactar con el propietario.
+- 3er paso hacer buen uso y mejorar la interfase de usuario a tu conveniencia.
 
 ## Contacto
 
