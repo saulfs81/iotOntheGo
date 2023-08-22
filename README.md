@@ -30,3 +30,37 @@ Para preguntas o consultas sobre este proyecto, puedes contactarnos en [IOTonThe
 ¡Esperamos que disfrutes explorando y contribuyendo a este proyecto! Juntos, estamos construyendo un futuro conectado.
 
 **IOTONTHEGO Inc.**
+
+
+#iotOntheGo
+
+# Development Project by IOTONTHEGO Inc.
+
+**This project is part of a development provided by the company IOTONTHEGO Inc. as a main initiative to make the tasks of creating and optimizing remote systems with connectivity and functionality accessible to the public.**
+
+## Description
+
+Welcome to our exciting development project where we are working to make building and optimizing remote systems with connectivity and functionality more accessible and easy to understand. Our goal is to provide robust and efficient solutions that allow anyone to immerse themselves in the exciting world of the Internet of Things (IoT).
+
+## Technology used
+-In this project, html and css are used with the participation of the bootstrap framework
+## Main Features
+
+- Creation of remote systems.
+- Optimization of systems with connectivity and functionality.
+- Accessible to the public.
+- Robust and efficient solutions.
+- Contributions and collaboration welcome.
+## Quick start
+- To be able to work with the project.
+- 1st step is to clone the repo.
+- 2nd step contact the owner.
+- 3rd step make good use and improve the user interface at your convenience.
+
+## Contact
+
+For questions or inquiries about this project, you can contact us at [IOTonTheGo ](mailto:saulfs81@gmail.com).
+
+We hope you enjoy exploring and contributing to this project! Together, we are building a connected future.
+
+**IOTONTHEGO Inc.**
