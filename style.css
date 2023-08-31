@@ -47,6 +47,24 @@ width: 80px;
 	top:1px;
 }
 
+/* Estilos para el footer */
+footer {
+  background-color: #a6a3a3;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+/* Estilos para las imágenes de los logos en el footer */
+.social-icons img {
+  width: 30px;
+  height: 30px;
+  margin: 0 10px;
+}
+
 /*estilo de las versiones media */
 @media (max-width: 768px) {
   header h1 {
